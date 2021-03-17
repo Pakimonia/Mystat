@@ -1,0 +1,20 @@
+.n2 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:  rgba(0, 88, 139, 0.932);
+    border: 1px solid #555;
+    height: 100%;
+  }
+  
+  
+.n2 li {
+    text-align: center;
+    width: 100%;
+    font-size: xx-large;
+    color: rgb(206, 206, 206);
+  }  
+.n2 li:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }

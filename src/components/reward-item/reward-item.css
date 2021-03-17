@@ -1,0 +1,14 @@
+.imag{
+    border-radius: 100px;
+    border: rgba(133, 16, 201, 0) solid 3px;
+  }
+.textt{
+      text-align: center;
+  }
+.textt h5{
+  font-size: 12px;
+}
+.cardd{
+    border: none;
+    padding: 5px;
+}

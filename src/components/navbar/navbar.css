@@ -1,0 +1,60 @@
+.n1 ul {
+  background-color: rgba(0, 88, 139, 0.932);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 50px;
+  }
+  
+  .li {
+    float: left;
+    margin-left: 35px;
+  }
+  .rev{
+    float: right 
+  }
+  .marg{
+    margin-right: 100px;
+    color: white;
+  }
+  .marg h6{
+    font-size: 15px;
+  }
+  .marg span{
+    font-size: 15px;
+    font-weight: lighter ;
+  }
+  .marg a{
+    color: white;
+    font-size: 11px;
+    font-weight: initial;
+    text-decoration: none;
+  }
+  .rev img{
+    width: 50px;
+    border-radius: 100px;
+    border: rgb(133, 16, 201) solid 3px;
+  }
+
+  .star{
+    margin-top: 15px;
+    margin-right: 10px;
+    color: rgb(162, 0, 255);
+  }
+  .diamond{
+    margin-top: 15px;
+    margin-right: 10px;
+    color: rgb(0, 162, 255);
+  }
+  .award{
+    margin-top: 15px;
+    margin-right: 10px;
+    color: rgb(255, 0, 128);
+  }
+  .coin{
+    margin-top: 15px;
+    margin-right: 10px;
+    color: gold;
+  }
+  
